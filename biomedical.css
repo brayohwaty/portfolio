@@ -133,7 +133,7 @@ transform: translateX(-50%);
  }
 .biomed-disciplines{
   justify-content:  left;
-  align-item: left;
+  text-align: left;
   ;
 }
  /*--------------------------------------css for small screens----------------*/
