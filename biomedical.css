@@ -138,6 +138,7 @@ transform: translateX(-50%);
 b{
   justify-content: left;
   text-align: left;
+  margin-left: 0pxx;
 }
 
  /*--------------------------------------css for small screens----------------*/
