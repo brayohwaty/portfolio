@@ -137,6 +137,7 @@ transform: translateX(-50%);
 }
 b{
   justify-content: left;
+  text-align: left;
 }
 
  /*--------------------------------------css for small screens----------------*/
