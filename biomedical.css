@@ -133,9 +133,9 @@ transform: translateX(-50%);
  }
 .biomed-disciplines{
   text-align: left;
-  background-color: red;
-  
+  background-color: red;  
 }
+
  /*--------------------------------------css for small screens----------------*/
  @media only screen and (max-width: 600px){
 
