@@ -133,7 +133,6 @@ transform: translateX(-50%);
  }
 .biomed-disciplines{
   justify-content:  left;
-  background-color: blue;
   align-item: left;
   margin-left: 20px;
 }
