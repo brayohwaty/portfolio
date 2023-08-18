@@ -100,9 +100,10 @@ transform: translateX(-50%);
 }
  /*-----------------------------------Content--------------------*/
 .containers h1{
-  color: red;
+  color: blue;
   font-size: 300;
   font-weight: 500;
+  margin: 10px 10px;
 }
 #softwares h2{
   color: #ff004f;
