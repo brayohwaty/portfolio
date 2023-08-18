@@ -100,7 +100,7 @@ transform: translateX(-50%);
 }
  /*-----------------------------------Content--------------------*/
 .containers h1{
-  color: blue;
+  color: red;
   font-size: 300;
   font-weight: 500;
 }
