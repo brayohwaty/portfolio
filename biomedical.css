@@ -135,10 +135,8 @@ transform: translateX(-50%);
   text-align: left; 
   justify-content: left;
 }
-b{
-  justify-content: left;
-  text-align: left;
-  margin-left: 0pxx;
+.displine1{
+font-style: bold;
 }
 
  /*--------------------------------------css for small screens----------------*/
