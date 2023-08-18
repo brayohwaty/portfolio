@@ -155,7 +155,7 @@ transform: translateX(-50%);
   padding-top: 50px;
   z-index: 2;
   transition: right 1s;
-  
+  overflow: hidden;
  }
  ul, li{
   display: block;
