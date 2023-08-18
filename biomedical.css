@@ -143,6 +143,7 @@ transform: translateX(-50%);
   nav .fa-solid{
   display: block;
   font-size: 25px;
+  overflow: hidden;
  }
  nav ul{
   background: #ff004f;
