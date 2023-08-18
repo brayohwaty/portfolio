@@ -131,6 +131,9 @@ transform: translateX(-50%);
  nav .fa-solid{
   display: none;
  }
+.biomed-disciplines{
+  justify-content:  left;
+}
  /*--------------------------------------css for small screens----------------*/
  @media only screen and (max-width: 600px){
 
